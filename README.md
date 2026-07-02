@@ -108,8 +108,7 @@ Certifications (Cisco Networking Academy)
 - ✅ Introduction to Data Science | 2025
 - ✅ Introduction to Cybersecurity | 2025
 - ✅ CCNA: Introduction to Networks | 2024
-- 🔄 Python Essentials 1 | 2026 (In progress)
-- 🔄 English for IT 1 | 2026 (In progress)
+
 
 ---
 
