@@ -1,134 +1,97 @@
-# 👋 Hi, I'm Allan Quiros
+# 👋 Hi, I'm Allan Quirós
 
-# Backend Developer · Data Analyst · Banking Systems Specialist
+### QA Analyst · Backend Developer · Data Analyst · Banking Specialist
 
-Software engineer with 8+ years in the financial sector, bridging technical teams and business.
+QA Analyst with a strong background in Software Testing (ISTQB® CTFL framework), Backend Development, and Data Analysis. Backed by **8+ years in the financial sector** (BAC Credomatic, Banco Promerica, BCR), I bridge the gap between business operations, data integrity, and rigorous software quality assurance.
 
-[LinkedIn](https://linkedin.com/in/allanquirosgutierrez)
-[GitHub](https://github.com/allanquirosg)
-[Email](allandquirosg@outlook.com)
+[LinkedIn](https://linkedin.com/in/allanquirosgutierrez) · [GitHub](https://github.com/allanquirosg) · [Email](mailto:allandquirosg@outlook.com)
 
-📍 Costa Rica  🟢 Available immediately  💼 Open to remote, hybrid or on-site
-
+📍 Costa Rica | 🟢 Available Immediately | 💼 Remote, Hybrid, or On-site
 
 ---
 
-# 🎯 About Me
+## 🎯 About Me
 
-Engineer with dual background in Systems Engineering and Banking & Finance.
-I combine technical skills with deep knowledge of banking operations. I speak three languages:
-technical, data and banking business.
+Dual-degree professional holding a **B.S. in Systems Engineering** and a **Licentiate in Business Administration (Banking & Finance)**. I speak three languages: **Testing/Tech**, **Data**, and **Banking Operations**.
 
-- 💻 As Developer — Backend with Python and C#, relational database modeling, automation scripts
-- 📊 As Data Analyst — SQL complex queries, data validation, KPI reporting
-- 💼 As Banking Specialist — Core banking platforms, operational control, financial processes
+- 🧪 **QA & Software Testing:** Functional testing, test case design/execution, edge-case validation, integration testing, ISTQB® CTFL alignment, and exceptional quality metrics (**Top 5 Global performance / 97% QA/CSAT** in BCR operations).
+- 💻 **Backend & Data:** C#, Python (.NET middleware, Pandas, ETL pipelines), relational database design & optimization (SQL Server, PostgreSQL, MySQL), Stored Procedures, Triggers, Views, and CTEs.
+- 💼 **Domain Knowledge:** Core banking platforms (AS400), CRM systems (Salesforce, Siebel), financial compliance, credit risk workflows, and SLA operational control.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack & QA Skills
 
-Languages & Development
+**Testing & Methodologies**
+`ISTQB® Framework` `Functional Testing` `Test Cases & Scenarios` `Data Integrity Testing` `Scrum / Agile`
 
-- Python
-- C#
-- SQL
+**Languages & Backend**
+`SQL (SQL Server, PostgreSQL, MySQL)` `C# (.NET)` `Python`
 
-Databases
+**Data & Analytics**
+`Pandas` `NumPy` `Power BI` `ETL Pipelines` `KPI Reporting`
 
-- SQL Server
-- PostgreSQL
-- MySQL
+**Tools & Infrastructure**
+`Git` `GitHub` `VS Code` `AS400` `Salesforce` `Siebel`
 
-Tools & Platforms
-
-- pandas
-- NumPy
-- Git
-- GitHub
-- VS Code
-
-Banking Platforms
-
-- AS400
-- Salesforce
-- Siebel
-
-
-Learning
-
-- Docker
-- AWS
-- Azure
-- Power BI
+**Currently Expanding**
+`Automated Testing (Selenium/Playwright)` `Docker` `AWS` `Azure`
 
 ---
 
-# 📂 Featured Projects
+## 📂 Portfolio Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [🏦 BancoVentas](https://github.com/allanquirosg/BancoVentas-SQL) | Banking sales system with automated business rules | SQL Server · Python · C# |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🏦 **[BancoVentas](https://github.com/allanquirosg/BancoVentas-SQL)** | End-to-end banking sales system. Features rigorous test case execution, relational DB modeling with advanced procedures/triggers, and a Python/C# backend integration middleware. | SQL Server, C#, Python, QA Practices |
 
-Coming soon:
-
-| Project | Description |
-|---|---|
-| 🔍 Credit Risk Analyzer | Predictive risk analysis automation for credit agents |
-| 🚨 Fraud Detector CR | Real-time transactional fraud detection for Costa Rica |
-| 📊 PYME Credit Scoring | Credit evaluation platform for small businesses |
+### 🚀 Upcoming Projects
+* 🔍 **Credit Risk Analyzer:** Automated predictive risk scoring platform for credit evaluation.
+* 🚨 **Fraud Detector CR:** Real-time transactional fraud detection rules engine tailored for CR banking.
+* 📊 **PYME Credit Scoring:** Data-driven credit scoring platform for small and medium enterprises.
 
 ---
 
-# 💼 Experience
+## 💼 Relevant Experience
 
-Data & Operational Quality Analyst (Call Center Agent) — NETCOM (BCR Contract)
-`May 2025 – Dec 2025`
-Analysis of omnichannel banking platform incidents · Core system data extraction · KPI dashboards
+**Software & Data Developer (Freelance / Portfolio)**
+*May 2026 – Present*
+* Designed and deployed full-stack functional prototypes (*BancoVentas*) applying strict testing principles.
+* Modeled relational databases in SQL Server and created backend middleware in C# and Python for financial workflows.
 
-Commercial Data & CRM Analyst (Inside Sales Agent) — ITS (Banco Promerica Contract)
-`Jan 2022 – May 2022`
-Salesforce & Siebel database processing · Credit request validation · Customer segmentation
+**Customer Quality & Operations Agent — NETCOM (Banco de Costa Rica Project)**
+*May 2025 – Dec 2025*
+* Achieved **Top 5 Global Performance (97% QA/CSAT rating)** in customer satisfaction and quality audits under strict SLAs.
+* Documented financial incidents in CRM and advised users on digital banking platforms.
 
-Platform & Operational Control Executive (Platform Executive) — BAC Credomatic
-`Aug 2013 – Jul 2020`
-AS400 core banking operations · Financial transactions · Premium client service · Contingency support
+**Inside Sales & CRM Analyst — ITS (Banco Promerica Project)**
+*Jan 2022 – May 2022*
+* Managed credit requests, CRM pipeline tracking (Salesforce/Siebel), and risk validation controls.
 
----
-
-# 🎓 Education & Certifications
-
-Formal Education
-
-- 🎓 Bachelor of Science in Systems Engineering — Universidad Americana | 2025
-- 🎓 Bachelor of Business Administration, Major in Banking and Finance — UNED | 2020
-
-Certifications (Cisco Networking Academy)
-
-- ✅ AI Fundamentals with IBM SkillsBuild | 2026
-- ✅ Introduction to Data Science | 2025
-- ✅ Introduction to Cybersecurity | 2025
-- ✅ CCNA: Introduction to Networks | 2024
-
+**Platform & Operational Control Executive — BAC Credomatic**
+*Aug 2013 – Jul 2020*
+* Managed high-volume Core Banking (AS400) operations, risk assessment for premium clients, and team onboarding.
 
 ---
 
-# 🌍 Languages
+## 🎓 Education & Certifications
 
-- 🇨🇷 Spanish: Native (C2)
-- 🇺🇸 English: Intermediate (B2+) — Continuously improving
+- **B.S. in Systems Engineering** — Universidad Americana (2020 – 2025)
+- **Licentiate Degree in Business Administration (Banking & Finance)** — UNED (2013 – 2020)
 
----
-
-# 📊 GitHub Stats
-
-
-![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allanquirosg&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanquirosg&layout=compact&hide_border=true)
-
+**Certifications**
+- ✅ **Software Testing Foundations (ISTQB® CTFL syllabus alignment)**
+- ✅ **Build Power BI Reports**
+- ✅ **CCNA: Introduction to Networks** (2024)
+- ✅ **Introduction to Data Science & Cybersecurity** (2025)
 
 ---
 
-Open to opportunities in Backend Development, Data Analysis and Banking FinTech
+## 🌍 Languages
+
+- 🇨🇷 **Spanish:** Native (C2)
+- 🇺🇸 **English:** Professional Working Proficiency (B2+)
+
+
 
 
