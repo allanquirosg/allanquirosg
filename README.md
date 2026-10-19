@@ -66,4 +66,4 @@ documentar soluciones desde cero.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allan_Quirós-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/[TU-URL-AQUÍ])
 [![Email](https://img.shields.io/badge/Email-allandquirosg@outlook.com-D14836?style=flat&logo=gmail)](mailto:allandquirosg@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-allanquirosg-181717?style=flat&logo=github)]([https://github.com/allanquirosg](https://www.linkedin.com/in/allanquirosgutierrez/))
+[![GitHub](https://img.shields.io/badge/GitHub-allanquirosg-181717?style=flat&logo=github)]((https://www.linkedin.com/in/allanquirosgutierrez/))
